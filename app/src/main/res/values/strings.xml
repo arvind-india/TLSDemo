@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TLSDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="iboxpay_urlcon">iboxpay urlconn</string>
+    <string name="selfsign_owncloud">selfsigned owncloud</string>
+    <string name="urlconn_personal_trust">urlconnection selfsign</string>
+    <string name="urlconn_verisign">UrlConnection VeriSign</string>
+    <string name="owncloud_iboxpay_sign">owncloud_iboxpay_sign</string>
+    
+    <string name="choose_url">choose a URL</string>
+    <string name="choose_certs">choose a cert</string>
+
+    <string name="url_connection">Url Connection</string>
+    <string name="http_client">Http Client</string>
+
+    <string name="clean_board">clean Msg</string>
+    <string name="no_response">no response</string>
+    <string name="http_client_unsupport">Http Client un Support</string>
+</resources>
